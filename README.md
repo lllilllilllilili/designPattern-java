@@ -1,6 +1,4 @@
-## designPattern-java
-
-# CS-Study
+# designPattern-java
 
 ## 🌳 Rule
 - 일요일 오전 10시
