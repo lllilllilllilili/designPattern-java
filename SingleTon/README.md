@@ -22,7 +22,7 @@
 
 - abstract, interface = 이탈릭체
     
-    ![스크린샷 2022-01-08 오후 3.07.19.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a563edcc-2547-4ed8-b94e-412ca98a6e8f/스크린샷_2022-01-08_오후_3.07.19.png)
+    ![스크린샷 2022-01-08 오후 3.07.19.png](https://github.com/dpj2022/designPattern-java/blob/master/utils/Component.png)
     
 - Generalization (일반화)
     - 서브 클래스 → 슈퍼 클래스 (Generalize, 일반화)
@@ -41,7 +41,7 @@
 - 의존관계
     - - - - - - - >
 
-![스크린샷 2022-01-08 오후 3.40.10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d6d2472-cf0a-489a-81b7-3266ba47a8cb/스크린샷_2022-01-08_오후_3.40.10.png)
+![스크린샷 2022-01-08 오후 3.40.10.png](https://github.com/dpj2022/designPattern-java/blob/master/utils/UML.png)
 
 ## 싱글톤 패턴
 
